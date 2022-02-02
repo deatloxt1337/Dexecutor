@@ -1,2 +1,2 @@
 # Dexecutor
-Here some #free scripts
+Here some # free scripts
